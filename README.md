@@ -179,23 +179,11 @@ dotnet test tests/TaskOrchestrator.IntegrationTests
 
 ## Contributing
 
-We welcome contributions! Please follow these guidelines:
-
 1. Fork the repository
-2. Create a feature branch following the naming convention: `<type>/<description>`
-   - Examples: `feat/add-authentication`, `fix/null-reference-bug`
-3. Make atomic commits following [Conventional Commits](https://www.conventionalcommits.org/)
-   - `feat:` for new features
-   - `fix:` for bug fixes
-   - `refactor:` for code restructuring
-   - `test:` for test additions
-   - `docs:` for documentation
-   - `chore:` for tooling/config
-4. Ensure all tests pass: `dotnet test`
-5. Push to your fork
-6. Create a Pull Request
-
-For detailed contribution guidelines, commit message format, and best practices, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 ## License
 
